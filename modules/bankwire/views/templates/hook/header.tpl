@@ -1,0 +1,1 @@
+Zdarova iš modulio :)

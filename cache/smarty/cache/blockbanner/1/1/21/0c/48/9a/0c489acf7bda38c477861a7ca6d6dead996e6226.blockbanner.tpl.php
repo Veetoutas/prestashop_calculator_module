@@ -10,21 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '85065f7b0d6dd25701-84870191',
-  'variables' => 
-  array (
-    'banner_link' => 0,
-    'force_ssl' => 0,
-    'base_dir_ssl' => 0,
-    'base_dir' => 0,
-    'banner_desc' => 0,
-    'banner_img' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5f7b0d6de04013_43263110',
+  'unifunc' => 'content_5f7c5c2a7aeb49_10896323',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5f7b0d6de04013_43263110')) {function content_5f7b0d6de04013_43263110($_smarty_tpl) {?><a href="http://localhost/mijora/" title="">
+<?php if ($_valid && !is_callable('content_5f7c5c2a7aeb49_10896323')) {function content_5f7c5c2a7aeb49_10896323($_smarty_tpl) {?><a href="http://localhost/mijora/" title="">
 	<img class="img-responsive" src="http://localhost/mijora/modules/blockbanner/img/sale70.png" alt="" title="" width="1170" height="65" />
 </a>
 <?php }} ?>

@@ -10,18 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '4915f7b0d6de6f4a2-98610274',
-  'variables' => 
-  array (
-    'is_logged' => 0,
-    'link' => 0,
-    'telnumber' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5f7b0d6df17cf2_32214261',
+  'unifunc' => 'content_5f7c5c2a840838_86814487',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5f7b0d6df17cf2_32214261')) {function content_5f7b0d6df17cf2_32214261($_smarty_tpl) {?><div id="contact-link" >
+<?php if ($_valid && !is_callable('content_5f7c5c2a840838_86814487')) {function content_5f7c5c2a840838_86814487($_smarty_tpl) {?><div id="contact-link" >
 	<a href="http://localhost/mijora/contact-us" title="Contact us">Contact us</a>
 </div>
 	<span class="shop-phone">

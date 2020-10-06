@@ -10,20 +10,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '13725f7b0d6d8c0065-26198730',
-  'variables' => 
-  array (
-    'link' => 0,
-    'returnAllowed' => 0,
-    'voucherAllowed' => 0,
-    'HOOK_BLOCK_MY_ACCOUNT' => 0,
-    'is_logged' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5f7b0d6daaa068_71362435',
+  'unifunc' => 'content_5f7c5c2a634624_63485076',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5f7b0d6daaa068_71362435')) {function content_5f7b0d6daaa068_71362435($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5f7c5c2a634624_63485076')) {function content_5f7c5c2a634624_63485076($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">
 	<h4><a href="http://localhost/mijora/my-account" title="Manage my customer account" rel="nofollow">My account</a></h4>
