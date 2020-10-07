@@ -1,0 +1,25 @@
+productFooter - displayed between top section of product (pictures, add to cart) and more info tabs
+displayHeader - this is position where js / css / script codes are loaded - at the top of the window screen
+displayTop - this is hook where the wide top menu appears
+dispalyFooter - this is the hook that is visible at the bottom of the screen
+productTab - to define new tab like "more info", "features" etc.
+productTabContents - to define new tab contents
+ProductActions - place where add to cart button appears
+extraLeft - place where extra links appears like "print", "share on facebook"
+extraRight - this hook appears on the right hand side of extraLeft block
+productOutOfStock - this hook appears when product is out of stock, near the product attributes and quantity field
+displayProductDeliveryTime  - Position that is available below the short description of product (prestashop 1.6.x)
+displayLeftColumnProdut  - this is hook equal to extraLeft PrestaShop 1.6.x
+displayRightColumnProduct  - this is hook equal to extraRight w PrestaShop 1.6.x
+displayBanner - Position available at the top of page where the wide banner appears (prestashop 1.6.x)
+displayProductButtons - this is hook quatl to productActions hook, but for PrestaShop 1.6.x
+dispalyTopColumn  - position where the slider appears, below the top menu in PrestaShop 1.6.x
+displayNav - Position visible at the very top of the page in PrestaShop 1.6.x
+displayNav1 - this is hook that appears on the left hand side of top bar (prestashop 1.7.x)
+displayNav2 - this is hook that appears on the right hand side of the top bar (prestashop 1.7.x)
+displayReassurance - this is position that appears below the add to cart button  (prestashop 1.7.x)
+displayAfterProductThumbs - this is hook that is visible below the product pictures (prestashop 1.7.x)
+displayProductAdditionalInfo - this is position that is visible below the add to cart button (prestashop 1.7.x.)
+actionProductAutOfStock - this is position that is visible when product is out of stock in "description" tab of the product (prestashop 1.7.x)
+displayBeforeBodyClosingTab - this is position visible at the end of website, right before body closing tag (prestashop 1.7.x)
+displayFooterBefore - this is the position visible right before the footer section (prestashop 1.7.x)
