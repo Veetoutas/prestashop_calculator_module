@@ -2,7 +2,7 @@
 <img src="./vytautas/mijora_task.jpg" width="350" alt="Img">
 </p>
 
-# Prestashop 'hire-purchase' calculator module
+# Custom Prestashop 'hire-purchase' calculator module
 ----------------------------------------------------
 ### Personal takeaways:
 In this project I've learned to create a custom module of Prestashop
